@@ -1,0 +1,33 @@
+*{
+    margin:0;
+}
+/* banner styles starts */
+
+
+.banner-image{
+    width: 100%;
+    position: absolute;
+}
+.banner-description{
+    position:relative;
+    
+    text-align: right;
+    top: 313px;
+    right: 199px;
+   
+}
+.banner-title{
+    font-size: 45px;
+}
+.banner-subtitle{
+    color:#444343;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+.text-primary{
+    color:white;
+    background-color: orange;
+    border:0;
+    padding: 10px;
+    border-radius:5px;
+}
