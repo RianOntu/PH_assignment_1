@@ -1,5 +1,6 @@
 *{
     margin:0;
+    
 }
 /* banner styles starts */
 
@@ -67,4 +68,38 @@ li{
 }
 .my_plan{
     text-align: center;
+}
+/* gradient area starts */
+
+.grad-img{
+    display: flex;
+    width:80%;
+    margin: 100px 200px;
+  justify-content: center;
+  background-image: url('./images/watch.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+    
+}
+.gradient-area{
+    margin:100px 0px ;
+}
+.img-description{
+    position: relative;
+    top:0;
+    left:241px;
+    top:241px;
+}
+.img-title{
+    color:white;
+    font-size: 35px;
+}
+.text-orange{
+    color:orange;
+    background-color: white;
+    border:0;
+    padding:10px;
+    margin-top: 20px;
+    border-radius: 5px;
 }
