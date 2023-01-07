@@ -31,3 +31,24 @@
     padding: 10px;
     border-radius:5px;
 }
+
+/* failure area starts */
+.failure{
+    margin: 700px 400px 20px 296px;
+    display: flex;
+    gap:20px;
+    justify-content: space-between;
+    align-items: center;
+}
+.failure-title{
+    margin-left: 4px;
+}
+.failure-description{
+    color:#444343;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:4px;
+}
+li{
+    list-style: none;
+}
