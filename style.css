@@ -39,16 +39,32 @@
     gap:20px;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 20px;
 }
 .failure-title{
-    margin-left: 4px;
+    margin-left: 34px;
 }
 .failure-description{
     color:#444343;
     margin-top:20px;
     margin-bottom:20px;
-    margin-left:4px;
+    margin-left:34px;
 }
 li{
     list-style: none;
+}
+/* my plans area starts */
+
+.my_plans{
+    margin-top:150px;
+}
+.all_plans{
+    display:flex;
+    gap:100px;
+    margin-top:60px ;
+    margin-bottom: 60px;
+    justify-content: center;
+}
+.my_plan{
+    text-align: center;
 }
